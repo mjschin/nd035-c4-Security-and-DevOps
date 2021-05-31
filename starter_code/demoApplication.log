@@ -1,0 +1,149 @@
+[http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController  - User name set with t0000bs6th
+[http-nio-8080-exec-1] WARN  com.example.demo.controllers.UserController  - Cart saved with ID 1
+[http-nio-8080-exec-1] DEBUG com.example.demo.controllers.UserController  - this is a debug log
+[http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController  - this is an info log
+[http-nio-8080-exec-1] WARN  com.example.demo.controllers.UserController  - this is a warning log
+[http-nio-8080-exec-1] ERROR com.example.demo.controllers.UserController  - this is an error log
+2021-05-27 11:27:01 INFO  -> User name set with t0000bs6th 
+ 2021-05-27 11:27:01 WARN  -> Cart saved with ID 1 
+ 2021-05-27 11:27:01 DEBUG -> this is a debug log 
+ 2021-05-27 11:27:01 INFO  -> this is an info log 
+ 2021-05-27 11:27:01 WARN  -> this is a warning log 
+ 2021-05-27 11:27:01 ERROR -> this is an error log 
+ 2021-05-27 11:29:41 INFO  -> User name set with t0000bs6th 
+ 2021-05-27 11:29:41 WARN  -> Cart saved with ID 1 
+ 2021-05-27 11:29:41 DEBUG -> this is a debug log 
+ 2021-05-27 11:29:41 INFO  -> this is an info log 
+ 2021-05-27 11:29:41 WARN  -> this is a warning log 
+ 2021-05-27 11:29:41 ERROR -> this is an error log 
+ 2021-05-27 11:31:35 INFO  -> User name set with t0000bs6th 
+2021-05-27 11:31:35 WARN  -> Cart saved with ID 1 
+2021-05-27 11:31:35 DEBUG -> this is a debug log 
+2021-05-27 11:31:35 INFO  -> this is an info log 
+2021-05-27 11:31:35 WARN  -> this is a warning log 
+2021-05-27 11:31:35 ERROR -> this is an error log 
+2021-05-27 11:33:35.369 [http-nio-8080-exec-1] INFO  --- User name set with t0000bs6th 
+2021-05-27 11:33:35.573 [http-nio-8080-exec-1] WARN  --- Cart saved with ID 1 
+2021-05-27 11:33:35.574 [http-nio-8080-exec-1] DEBUG --- this is a debug log 
+2021-05-27 11:33:35.574 [http-nio-8080-exec-1] INFO  --- this is an info log 
+2021-05-27 11:33:35.575 [http-nio-8080-exec-1] WARN  --- this is a warning log 
+2021-05-27 11:33:35.575 [http-nio-8080-exec-1] ERROR --- this is an error log 
+2021-05-27 11:34:00.114 [http-nio-8080-exec-2] INFO  --- User name set with t0000bs6th 
+2021-05-27 11:34:00.254 [http-nio-8080-exec-2] WARN  --- Cart saved with ID 1 
+2021-05-27 11:34:00.255 [http-nio-8080-exec-2] DEBUG --- this is a debug log 
+2021-05-27 11:34:00.255 [http-nio-8080-exec-2] INFO  --- this is an info log 
+2021-05-27 11:34:00.255 [http-nio-8080-exec-2] WARN  --- this is a warning log 
+2021-05-27 11:34:00.256 [http-nio-8080-exec-2] ERROR --- this is an error log 
+2021-05-27 11:34:37.088 [http-nio-8080-exec-2] INFO  --- User name set with t0000bs6th 
+2021-05-27 11:34:37.209 [http-nio-8080-exec-2] WARN  --- Cart saved with ID 1 
+2021-05-27 11:34:37.210 [http-nio-8080-exec-2] DEBUG --- this is a debug log 
+2021-05-27 11:34:37.210 [http-nio-8080-exec-2] INFO  --- this is an info log 
+2021-05-27 11:34:37.210 [http-nio-8080-exec-2] WARN  --- this is a warning log 
+2021-05-27 11:34:37.211 [http-nio-8080-exec-2] ERROR --- this is an error log 
+2021-05-27 11:35:36.095  [http-nio-8080-exec-2] INFO  --- User name set with t0000bs6th 
+2021-05-27 11:35:36.206  [http-nio-8080-exec-2] WARN  --- Cart saved with ID 1 
+2021-05-27 11:35:36.206  [http-nio-8080-exec-2] DEBUG --- this is a debug log 
+2021-05-27 11:35:36.206  [http-nio-8080-exec-2] INFO  --- this is an info log 
+2021-05-27 11:35:36.207  [http-nio-8080-exec-2] WARN  --- this is a warning log 
+2021-05-27 11:35:36.207  [http-nio-8080-exec-2] ERROR --- this is an error log 
+2021-05-27 11:36:36.435  INFO  [http-nio-8080-exec-2] --- User name set with t0000bs6th 
+2021-05-27 11:36:36.513  WARN  [http-nio-8080-exec-2] --- Cart saved with ID 1 
+2021-05-27 11:36:36.513  DEBUG [http-nio-8080-exec-2] --- this is a debug log 
+2021-05-27 11:36:36.514  INFO  [http-nio-8080-exec-2] --- this is an info log 
+2021-05-27 11:36:36.514  WARN  [http-nio-8080-exec-2] --- this is a warning log 
+2021-05-27 11:36:36.514  ERROR [http-nio-8080-exec-2] --- this is an error log 
+2021-05-27 11:43:24.145  INFO  --- [http-nio-8080-exec-2] User name set with t0000bs6th 
+2021-05-27 11:43:24.214  WARN  --- [http-nio-8080-exec-2] Cart saved with ID 1 
+2021-05-27 11:43:24.215  DEBUG --- [http-nio-8080-exec-2] this is a debug log 
+2021-05-27 11:43:24.215  INFO  --- [http-nio-8080-exec-2] this is an info log 
+2021-05-27 11:43:24.215  WARN  --- [http-nio-8080-exec-2] this is a warning log 
+2021-05-27 11:43:24.215  ERROR --- [http-nio-8080-exec-2] this is an error log 
+2021-05-27 11:45:30.663  INFO  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController User name set with t0000bs6th 
+2021-05-27 11:45:30.733  WARN  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController Cart saved with ID 1 
+2021-05-27 11:45:30.733  DEBUG --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController this is a debug log 
+2021-05-27 11:45:30.734  INFO  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController this is an info log 
+2021-05-27 11:45:30.735  WARN  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController this is a warning log 
+2021-05-27 11:45:30.735  ERROR --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController this is an error log 
+2021-05-27 11:46:12.590  INFO  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 11:46:12.789  WARN  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 11:46:12.790  DEBUG --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is a debug log 
+2021-05-27 11:46:12.791  INFO  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is an info log 
+2021-05-27 11:46:12.791  WARN  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is a warning log 
+2021-05-27 11:46:12.792  ERROR --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is an error log 
+2021-05-27 11:48:46.708  INFO  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 11:48:46.868  WARN  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 11:48:46.870  DEBUG --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : this is a debug log 
+2021-05-27 11:48:46.874  INFO  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : this is an info log 
+2021-05-27 11:48:46.877  WARN  --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : this is a warning log 
+2021-05-27 11:48:46.893  ERROR --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : this is an error log 
+2021-05-27 11:48:46.894  FATAL --- [http-nio-8080-exec-1] com.example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 11:51:02.274  INFO  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 11:51:02.360  WARN  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 11:51:02.361  DEBUG --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is a debug log 
+2021-05-27 11:51:02.362  INFO  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is an info log 
+2021-05-27 11:51:02.363  WARN  --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is a warning log 
+2021-05-27 11:51:02.364  ERROR --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is an error log 
+2021-05-27 11:51:02.365  FATAL --- [http-nio-8080-exec-2] com.example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 11:53:57.336  INFO  --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 11:53:57.421  WARN  --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 11:53:57.422  DEBUG --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 11:53:57.422  INFO  --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 11:53:57.423  WARN  --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 11:53:57.423  ERROR --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 11:53:57.424  FATAL --- [http-nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 11:57:41.929  INFO  --- [nio-8080-exec-1] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 11:57:42.038  WARN  --- [nio-8080-exec-1] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 11:57:42.039  DEBUG --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 11:57:42.041  INFO  --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 11:57:42.042  WARN  --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 11:57:42.043  ERROR --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 11:57:42.048  FATAL --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 11:59:27.520  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 11:59:27.635  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 11:59:27.638  DEBUG 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 11:59:27.640  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 11:59:27.641  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 11:59:27.641  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 11:59:27.641  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:03:52.106  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 14:03:52.392  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 14:03:52.396  DEBUG 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 14:03:52.398  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 14:03:52.399  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 14:03:52.399  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:03:52.400  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:04:57.696  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 14:04:57.768  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 14:04:57.804  DEBUG 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 14:04:57.807  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 14:04:57.809  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 14:04:57.817  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:04:57.823  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:06:02.106  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 14:06:02.193  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 14:06:02.194  DEBUG 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 14:06:02.195  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 14:06:02.196  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 14:06:02.196  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:06:02.198  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:25:54.815  WARN  1234 --- [nio-8080-exec-1] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 14:25:54.819  WARN  1234 --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 14:25:54.822  ERROR 1234 --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:25:54.824  FATAL 1234 --- [nio-8080-exec-1] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:26:38.178  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 14:26:38.257  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 14:26:38.259  DEBUG 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 14:26:38.260  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 14:26:38.261  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 14:26:38.261  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:26:38.262  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:27:08.259  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : User name set with t0000bs6th 
+2021-05-27 14:27:08.353  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : Cart saved with ID 1 
+2021-05-27 14:27:08.354  TRACE 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a trace log 
+2021-05-27 14:27:08.355  DEBUG 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a debug log 
+2021-05-27 14:27:08.356  INFO  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an info log 
+2021-05-27 14:27:08.357  WARN  1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a warning log 
+2021-05-27 14:27:08.362  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:27:08.364  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
+2021-05-27 14:27:40.511  ERROR 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is an error log 
+2021-05-27 14:27:40.518  FATAL 1234 --- [nio-8080-exec-2] .example.demo.controllers.UserController : this is a fatal log 
